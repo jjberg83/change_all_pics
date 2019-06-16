@@ -1,0 +1,26 @@
+.container {
+  margin: 0 auto;
+  width: 900px;
+  height: 600px;
+  background: red;
+  text-align: center;
+}
+nav {
+  margin-bottom: 50px;
+  padding-top: 50px;
+  font-weight: bolder;
+  text-transform: uppercase;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+#toSmiley, #toAngry {
+  display: block;
+  margin: 0 auto;
+  height: 40px;
+  background: yellow;
+  padding: 5px;
+  margin-bottom: 20px;
+}
