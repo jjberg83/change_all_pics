@@ -11,8 +11,8 @@ function longFace(b) {
 
 smileyBtn.onclick = function () {
   allSmiles("images/smiley_blue.png");
-}
+};
 
 angryBtn.onclick = function () {
   longFace("images/angry_blue.png");
-}
+};
